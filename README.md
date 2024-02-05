@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Nuevo repositorio del prepcourse, probando el modulo 2 (con readme)
+Este es una prueba de cómo crear un repo en la nube y clonarlo a mi repo local. 
